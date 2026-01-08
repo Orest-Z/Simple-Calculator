@@ -36,5 +36,6 @@ Ky projekt u krijua për të:
 - Kontrollon nëse ndodh pjesëtim me zero.
 - Lejon përdoruesin të zgjedhë nëse dëshiron të mbyllë apo të vazhdojë programin.
 
-//UPDATE MD
-This used to be one of my first things i would create during first year learnig C language and was purely made for fun and even some parts i belive were vibe coded since i wouldnt understant it well xD. There are a lot of things to fix on this code but im just going to leave it here just to see it as a piece of history into my long software developing journey! 
+
+**//UPDATE MD
+This used to be one of my first things i would create during first year learnig C language and was purely made for fun and even some parts i belive were vibe coded since i wouldnt understant it well xD. There are a lot of things to fix on this code but im just going to leave it here just to see it as a piece of history into my long software developing journey!**
